@@ -1,0 +1,27 @@
+html,body{
+  background-color: #55B6AD !important;
+}
+
+.calculadora{
+ box-shadow: 0px 0px 3px 3px rgba(97, 92, 92, 0.75);
+}
+
+.calc {
+background-color: #8C6E64 !important;
+}
+
+.calc-o{
+ background-color: #55B6AD !important;
+}
+
+.font-custom1{
+ color: #8C6E64 !important;
+}
+/* Quitar border-radius a inputs*/
+.my-input{
+ border-radius: 0px !important;
+ border: transparent;
+}
+.my-input:active:active:focus {
+ border: 0px transparent;
+}
