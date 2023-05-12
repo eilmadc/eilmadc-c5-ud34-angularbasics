@@ -1,4 +1,4 @@
-# EilmadcC5Ud34Angularbasics
+# C5 Ud34 Angular Basics
 
 ![image](https://github.com/eilmadc/eilmadc-c5-ud34-angularbasics/assets/57563030/ad520b08-907c-4f25-9361-c43131be940d)
 
